@@ -1,0 +1,13 @@
+1-a
+2-b
+3-b
+4-e
+5-c
+6-d
+7- CRUD(Creat, Read, Update, Delete)consiste em uma aplicação que que consegue: criar, ler(mostrar), atualizar e deletar dados.
+
+8- Se trata da parte visual de uma aplicação. Algumas da linguagens são JavaScript e CSS.
+
+9- É a parte "interna" de uma aplicação normalmente relacionada aos servidores, como: recebimento, tratamento, arquivamento e leitura de dados.
+
+19 - É um sistema de controle de versões. Serve para controlar as modificações feitas em algum projeto, ajuda muito na hora de se trabalhar em equipe, já que permite que todos os colabolares estejam trabalhando em uma mesma versão do projeto.
