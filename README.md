@@ -1,1 +1,1 @@
-# Teste para vaga de suporte na empresa GRX
+# Teste para vaga de estágio na empresa GRX
